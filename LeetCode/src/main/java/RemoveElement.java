@@ -1,4 +1,4 @@
-public class removeElement {
+public class RemoveElement {
     public int removeElementVal(int[] nums, int val) {
         int len = nums.length;
         int i = 0, j = 0;

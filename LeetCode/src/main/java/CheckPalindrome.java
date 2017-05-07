@@ -1,5 +1,5 @@
 /*Determine whether an integer is a palindrome. Do this without extra space.*/
-public class checkPalindrome {
+public class CheckPalindrome {
     public boolean isPalindrome(int x) {
         if (x<0 || (x != 0  && x%10 == 0)) return false;
         else{
